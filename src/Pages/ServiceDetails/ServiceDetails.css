@@ -1,0 +1,14 @@
+.service{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 30px;
+}
+.facility{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+.facility div{
+    border-top: 1px solid #FF3811;
+    overflow: hidden;
+}

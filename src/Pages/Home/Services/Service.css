@@ -1,0 +1,14 @@
+.service-img img{
+    height: 256px;
+}
+.services-btn:hover{
+        background-color: #FF3811;
+        color: white;
+        border: 1px solid white;
+
+}
+
+.services-btn{
+        color:#FF3811;
+        border: 1px solid #FF3811;
+}

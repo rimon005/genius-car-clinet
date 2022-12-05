@@ -1,0 +1,13 @@
+.login-card {
+  border: 1px solid gray;
+}
+.login-btn {
+  background: #ff3811;
+  border-radius: 10px;
+  color: white;
+  border: none;
+}
+.login-btn:hover{
+    background: #f5310a;
+    
+}
